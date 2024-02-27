@@ -39,9 +39,12 @@
 <br>
 
 ## ERD
+![ERD](doc/img/erd.png)
+
+<br>
 
 ## Trouble Shooting
-
+👉🏻 [여기서 확인할 수 있습니다.] (.)
 
 ## Tech Stack
 ✔️ Backend
