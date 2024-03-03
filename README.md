@@ -44,7 +44,7 @@
 <br>
 
 ## Trouble Shooting
-👉🏻 [여기서 확인할 수 있습니다.] (.)
+👉🏻 [여기서 확인할 수 있습니다.](https://silent-coin-f80.notion.site/Trouble-Shooting-6af4ca868b014ab4a5934024fe836b75?pvs=4)
 
 ## Tech Stack
 ✔️ Backend
