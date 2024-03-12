@@ -39,7 +39,7 @@
 <br>
 
 ## ERD
-![ERD](doc/img/erd(2).png)
+![ERD](doc/img/erd.png)
 
 <br>
 
